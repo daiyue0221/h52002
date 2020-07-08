@@ -1,0 +1,78 @@
+.banner{
+    width: 1920px;
+    margin: 0 auto;
+}
+
+
+.content .left{
+    float: left;
+}
+.con .right{
+    width: 700px;
+    float: right;
+    margin-bottom: 30px;
+}
+.con .right h1{
+    font-size: 12px;
+}
+.con .right h1 span{
+    font-size: 20px;
+}
+.con .right h2{
+    margin-bottom: 20px;
+    font-size: 12px;
+    color: #999999;
+}
+
+.con .right p{
+    font-size: 12px;
+    color: #999999;
+    line-height: 25px;
+    text-indent: 2rem;
+}
+
+.bianQian{
+    display: block;
+    line-height: 30px;
+    width: 145px;
+    text-align: left;
+    color: black;
+    font-size: 14px;
+}
+
+.con .right ul li a span:nth-child(2){
+    color: #999999;
+    font-size: 13px;
+}
+.con .right ul{
+    padding-top: 60px;
+}
+.bian{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.content .right ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.con .right ul li a{
+    position: relative;
+    bottom:0px;
+    left: 0px;
+    border-top: black solid 1px;
+}
+
+.hidd{
+    visibility: hidden;
+}
+.content{
+    margin-bottom: 20px;
+}
+
+.ac{
+    display: none;
+}
+

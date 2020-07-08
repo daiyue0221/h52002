@@ -1,0 +1,24 @@
+.content{
+    margin-bottom: 20px;
+}
+.cont_left{
+    float: left;
+}
+.cont_right{
+    width: 680px;
+    float: right;
+}
+.cont_right p {
+    text-indent: 2rem;
+    line-height: 30px;
+    color: #333333;
+    margin-top: 15px;
+}
+
+.head_left{
+    margin-right: 40px;
+    cursor: pointer;
+}
+.ac{
+    display: none;
+}

@@ -1,0 +1,28 @@
+.map{
+    margin-bottom: 54px;
+}
+
+.right_in{
+    float: left;
+}
+.right_in img{
+    float: left;
+    margin: 0 20px 0 20px;
+}
+.rr{
+    float: left;
+
+}
+
+.rr h4:nth-child(even){
+    color: #999999;
+}
+.rr h4:nth-child(1){
+    font-size: 20px;
+}
+.rr h4:nth-child(3){
+    margin-top: 31px;
+}
+.right_in{
+    padding-bottom: 37px;
+}

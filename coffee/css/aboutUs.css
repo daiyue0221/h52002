@@ -1,0 +1,20 @@
+.head_left{
+    margin-right: 30px;
+}
+
+.pic img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.cont p{
+    text-indent: 2rem;
+    line-height: 30px;
+    color: #666666;
+}
+.cont{
+    margin-bottom: 30px;
+}
+a{
+    color: black;
+}

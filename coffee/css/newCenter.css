@@ -1,0 +1,48 @@
+a{
+    color:black;
+}
+.head_left{
+    margin-right:30px;
+}
+
+.new_w{
+    border-bottom: solid 1px #f2f2f2;
+    padding: 20px 0 20px 0;
+}
+
+.date{
+    width: 65px;
+    border-right: solid 1px #f2f2f2;
+    margin: 0 0 0 20px;
+    float: left;
+
+}
+.word{
+	width: 90%;
+    margin: 0 0 0 20px;
+    float: left;
+
+}
+.date p:nth-child(1){
+    height: 45px;
+    font-size: 40px;
+    text-align: center;
+    color: #866961;
+}
+.date p:nth-child(2){
+    color: #a9a9a9;
+}
+.word h1{
+    color: #866961;
+}
+.word p{
+    margin-top: 25px;
+    color: #999999;
+    overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap
+}
+
+.cont a:hover .word p{
+    color: black;
+}
